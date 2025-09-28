@@ -1,6 +1,6 @@
 *************************
-Nguyen Phuc Khoi 
-mssv: B2000146
-CT-44903
+Nguyen Thu Khoa
+mssv: Dc21v7n518
+CT-449
 
 BACKEND 1 + 2
